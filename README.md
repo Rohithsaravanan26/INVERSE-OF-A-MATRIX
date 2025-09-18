@@ -13,10 +13,10 @@ Prepare the lists from each linear equations and assign in np.array()
 Using the np.linalg.inv(), we can find the solutions.
 ### Step 4: 
 End the program
+### Developed by: Rohith S
+### RegisterNumber: 25008317
 ## Program:
 ```
-#Developed by: Rohith S
-#RegisterNumber: 25008317
 import numpy as np
 a = np.array([[2,1,1],[1,1,1],[1,-1,2]])
 b = np.linalg.inv(a)
